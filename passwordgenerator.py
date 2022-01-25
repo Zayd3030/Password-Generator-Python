@@ -1,7 +1,7 @@
 import random
 
-uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-lowercase_letters = uppercase_letters.lower()
+uppercase_letters = string.ascii_uppercase
+lowercase_letters = string.ascii_lowercase
 numbers = "0123456789"
 symbols = "!£$%^&*()@#?"
 
